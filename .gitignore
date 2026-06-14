@@ -1,0 +1,13 @@
+# clasp 設定（個人の scriptId が入るため除外）
+.clasp.json
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node（将来的に使う場合）
+node_modules/
+npm-debug.log
