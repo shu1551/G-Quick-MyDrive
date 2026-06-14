@@ -38,7 +38,7 @@
 
 ### いちばん簡単：Drive からコピー
 
-[こちらの共有リンク](https://script.google.com/d/1XNGbM2QZrcNsrSEGjQcdnTW6JsIpqsXZ3rnMdtS1hRUihDZHFjjKpqfI/edit?usp=sharing) を開き、ドライブで**右クリック →「コピーを作成」**するだけ。自分の Google ドライブにプロジェクトごと複製されます（ファイルのコピペ不要）。あとは下の「**3. デプロイ**」以降を行えば使えます。
+[こちらの共有リンク](https://script.google.com/d/1s8SbYIsXobq5oicQfCRYgeGBXcKW3E4hhSo_ms-I8AmwlMffZXJwzJRQ/edit?usp=sharing) を開き、ドライブで**右クリック →「コピーを作成」**するだけ。自分の Google ドライブにプロジェクトごと複製されます（ファイルのコピペ不要）。あとは下の「**3. デプロイ**」以降を行えば使えます。
 
 ### 手動でセットアップ（clasp / コピペ派向け）
 
